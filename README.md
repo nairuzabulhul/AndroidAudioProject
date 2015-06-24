@@ -1,4 +1,4 @@
 # AndroidAudioProject
 This is a Basic Android Music Player that reads from SD-card of the phone
 
-![alt tag](http://domain.com/path/to/img.png "Description goes here")
+![Logo](http://francky.me/images/quora001.png)
